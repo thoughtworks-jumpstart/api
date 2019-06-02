@@ -34,6 +34,14 @@ This creates two resources posts and comments and these endpoints
 - GET `/comments/1` - gets one comment with `id`
 - GET `/posts/1/comments` - gets all comments belonging to a post
 
+## List of public APIs
+
+You may want to check these out for public APIs
+
+- [toddmotto/public-apis](https://github.com/toddmotto/public-apis)
+- [AnyAPI](https://any-api.com/)
+- [API Directory - ProgrammableWeb](https://www.programmableweb.com/apis/directory)
+
 ## Caveat emptor
 
-☝️ This is not a complete Pokémon API service and is used for training and teaching purposes only.
+☝️ This API service is used for training and teaching purposes only. It is not meant to be used for production apps.
