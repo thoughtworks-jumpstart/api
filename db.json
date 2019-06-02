@@ -1,96 +1,112 @@
 {
   "pokemon": [
     {
+      "id": 1,
       "name": "Charmander",
       "type": "fire",
       "hp": 20,
       "image": "https://cdn.bulbagarden.net/upload/7/73/004Charmander.png"
     },
     {
+      "id": 2,
       "name": "Bulbasaur",
       "type": "grass",
       "hp": 15,
       "image": "https://cdn.bulbagarden.net/upload/2/21/001Bulbasaur.png"
     },
     {
+      "id": 3,
       "name": "Wartortle",
       "type": "water",
       "hp": 25,
       "image": "https://cdn.bulbagarden.net/upload/0/0c/008Wartortle.png"
     },
     {
+      "id": 4,
       "name": "Charmeleon",
       "type": "fire",
       "hp": 40,
       "image": "https://cdn.bulbagarden.net/upload/4/4a/005Charmeleon.png"
     },
     {
+      "id": 5,
       "name": "Ivysaur",
       "type": "grass",
       "hp": 30,
       "image": "https://cdn.bulbagarden.net/upload/7/73/002Ivysaur.png"
     },
     {
+      "id": 6,
       "name": "Blastoise",
       "type": "water",
       "hp": 120,
       "image": "https://cdn.bulbagarden.net/upload/0/02/009Blastoise.png"
     },
     {
+      "id": 7,
       "name": "Charizard",
       "type": "fire",
       "hp": 200,
       "image": "https://cdn.bulbagarden.net/upload/7/7e/006Charizard.png"
     },
     {
+      "id": 8,
       "name": "Venusaur",
       "type": "grass",
       "hp": 220,
       "image": "https://cdn.bulbagarden.net/upload/a/ae/003Venusaur.png"
     },
     {
+      "id": 9,
       "name": "Raikou",
       "type": "thunder",
       "hp": 500,
       "image": "https://cdn.bulbagarden.net/upload/c/c1/243Raikou.png"
     },
     {
+      "id": 10,
       "name": "Pikachu",
       "type": "thunder",
       "hp": 80,
       "image": "https://cdn.bulbagarden.net/upload/0/0d/025Pikachu.png"
     },
     {
+      "id": 11,
       "name": "Lugia",
       "type": "psychic",
       "hp": 650,
       "image": "https://cdn.bulbagarden.net/upload/4/44/249Lugia.png"
     },
     {
+      "id": 12,
       "name": "Moltres",
       "type": "fire",
       "hp": 470,
       "image": "https://cdn.bulbagarden.net/upload/1/1b/146Moltres.png"
     },
     {
+      "id": 13,
       "name": "Zapdos",
       "type": "thunder",
       "hp": 470,
       "image": "https://cdn.bulbagarden.net/upload/e/e3/145Zapdos.png"
     },
     {
+      "id": 14,
       "name": "Articuno",
       "type": "ice",
       "hp": 470,
       "image": "https://cdn.bulbagarden.net/upload/4/4e/144Articuno.png"
     },
     {
+      "id": 15,
       "name": "Mewtwo",
       "type": "psychic",
       "hp": 670,
       "image": "https://cdn.bulbagarden.net/upload/7/78/150Mewtwo.png"
     },
     {
+      "id": 16,
       "name": "Mew",
       "type": "psychic",
       "hp": 700,
