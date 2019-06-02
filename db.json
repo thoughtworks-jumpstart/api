@@ -94,9 +94,5 @@
     "type": "psychic",
     "hp": 700,
     "image": "https://cdn.bulbagarden.net/upload/b/b1/151Mew.png"
-  },
-];
-
-export const getPokemons = () =>{
-  return pokemons;
-}
+  }
+]
