@@ -1,4 +1,11 @@
 {
+  "fruits": [
+    { "id": 1, "type": "apple" },
+    { "id": 2, "type": "banana" },
+    { "id": 3, "type": "orange" },
+    { "id": 4, "type": "pear" },
+    { "id": 5, "type": "watermelon" }
+  ],
   "pokemon": [
     {
       "id": 1,
