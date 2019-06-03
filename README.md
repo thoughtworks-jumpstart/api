@@ -4,9 +4,11 @@
 
 ## Available resources
 
-GET [/pokemon](https://my-json-server.typicode.com/thoughtworks-jumpstart/api/pokemon) - gets all Pokémon
+GET [/fruits](https://my-json-server.typicode.com/thoughtworks-jumpstart/api/pokemon) - get all fruits
 
-GET [/pokemon/1](https://my-json-server.typicode.com/thoughtworks-jumpstart/api/pokemon/1) - gets a Pokémon with `id`
+GET [/pokemon](https://my-json-server.typicode.com/thoughtworks-jumpstart/api/pokemon) - get all Pokémon
+
+GET [/pokemon/1](https://my-json-server.typicode.com/thoughtworks-jumpstart/api/pokemon/1) - get a Pokémon with `id`
 
 ## Create a new resource
 
