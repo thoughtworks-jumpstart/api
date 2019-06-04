@@ -1,10 +1,16 @@
 {
   "fruits": [
-    { "id": 1, "type": "apple" },
-    { "id": 2, "type": "banana" },
-    { "id": 3, "type": "orange" },
-    { "id": 4, "type": "pear" },
-    { "id": 5, "type": "watermelon" }
+    { "id": 1, "type": "apple", "emoji": "🍎" },
+    { "id": 2, "type": "banana", "emoji": "🍌" },
+    { "id": 3, "type": "orange", "emoji": "🍊" },
+    { "id": 4, "type": "pear", "emoji": "🍐" },
+    { "id": 5, "type": "watermelon", "emoji": "🍉" },
+    { "id": 6, "type": "pineapple", "emoji": "🍍" },
+    { "id": 7, "type": "lemon", "emoji": "🍋" },
+    { "id": 8, "type": "melon", "emoji": "🍈" },
+    { "id": 8, "type": "grapes", "emoji": "🍇" },
+    { "id": 8, "type": "peach", "emoji": "🍑" },
+    { "id": 8, "type": "mango", "emoji": "🥭" }
   ],
   "pokemon": [
     {
