@@ -1,5 +1,8 @@
 {
-  "authors": [{ "id": 1, "name": "George Orwell" }],
+  "authors": [
+    { "id": 1, "name": "George Orwell" },
+    { "id": 2, "name": "Aldous Huxley" }
+  ],
   "books": [
     {
       "id": 1,
@@ -30,6 +33,24 @@
       "title": "1984",
       "published": 1948,
       "authorId": 1
+    },
+    {
+      "id": 6,
+      "title": "Brave New World",
+      "published": 1932,
+      "authorId": 2
+    },
+    {
+      "id": 7,
+      "title": "Brave New World Revisited",
+      "published": 1948,
+      "authorId": 2
+    },
+    {
+      "id": 8,
+      "title": "Island",
+      "published": 1962,
+      "authorId": 2
     }
   ],
   "fruits": [
