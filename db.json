@@ -2,31 +2,31 @@
   "authors": [{ "id": 1, "name": "George Orwell" }],
   "books": [
     {
-      "id": 3,
+      "id": 1,
       "title": "Down and Out in Paris and London",
       "published": 1933,
       "authorId": 1
     },
     {
-      "id": 3,
+      "id": 2,
       "title": "Keep the Aspidistra Flying",
       "published": 1936,
       "authorId": 1
     },
     {
-      "id": 4,
+      "id": 3,
       "title": "Homage to Catalonia",
       "published": 1938,
       "authorId": 1
     },
     {
-      "id": 1,
+      "id": 4,
       "title": "Animal Farm",
       "published": 1945,
       "authorId": 1
     },
     {
-      "id": 2,
+      "id": 5,
       "title": "1984",
       "published": 1948,
       "authorId": 1
