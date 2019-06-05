@@ -8,9 +8,14 @@
     { "id": 6, "type": "pineapple", "emoji": "🍍" },
     { "id": 7, "type": "lemon", "emoji": "🍋" },
     { "id": 8, "type": "melon", "emoji": "🍈" },
-    { "id": 8, "type": "grapes", "emoji": "🍇" },
-    { "id": 8, "type": "peach", "emoji": "🍑" },
-    { "id": 8, "type": "mango", "emoji": "🥭" }
+    { "id": 9, "type": "grapes", "emoji": "🍇" },
+    { "id": 10, "type": "peach", "emoji": "🍑" },
+    { "id": 11, "type": "mango", "emoji": "🥭" },
+    { "id": 12, "type": "kiwi", "emoji": "🥝" },
+    { "id": 13, "type": "strawberry", "emoji": "🍓" },
+    { "id": 14, "type": "coconut", "emoji": "🥥" },
+    { "id": 15, "type": "cherry", "emoji": "🍒" },
+    { "id": 16, "type": "avocado", "emoji": "🥑" }
   ],
   "pokemon": [
     {
