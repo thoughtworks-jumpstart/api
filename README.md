@@ -4,11 +4,25 @@
 
 ## Available resources
 
+### Fruits
+
 GET [/fruits](https://my-json-server.typicode.com/thoughtworks-jumpstart/api/fruits) - get all fruits
+
+GET [/fruits/:id](https://my-json-server.typicode.com/thoughtworks-jumpstart/api/fruits) - get a fruit by `id`
+
+### Books and authors
+
+GET [/authors](https://my-json-server.typicode.com/thoughtworks-jumpstart/api/authors) - get all authors
+
+GET [/books](https://my-json-server.typicode.com/thoughtworks-jumpstart/api/books) - get all books
+
+GET [/authors/:id/books](https://my-json-server.typicode.com/thoughtworks-jumpstart/api/authors/1/books) - get all books from an author by `id`
+
+### Pokemon
 
 GET [/pokemon](https://my-json-server.typicode.com/thoughtworks-jumpstart/api/pokemon) - get all Pokémon
 
-GET [/pokemon/1](https://my-json-server.typicode.com/thoughtworks-jumpstart/api/pokemon/1) - get a Pokémon with `id`
+GET [/pokemon/1](https://my-json-server.typicode.com/thoughtworks-jumpstart/api/pokemon/1) - get a Pokémon by `id`
 
 ## Create a new resource
 
