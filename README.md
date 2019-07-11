@@ -56,6 +56,7 @@ You may want to check these out for public APIs
 
 - [toddmotto/public-apis](https://github.com/toddmotto/public-apis)
 - [AnyAPI](https://any-api.com/)
+- [RapidAPI](https://rapidapi.com/)
 - [API Directory - ProgrammableWeb](https://www.programmableweb.com/apis/directory)
 
 ## Caveat emptor
