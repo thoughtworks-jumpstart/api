@@ -1,7 +1,8 @@
 {
   "authors": [
     { "id": 1, "name": "George Orwell" },
-    { "id": 2, "name": "Aldous Huxley" }
+    { "id": 2, "name": "Aldous Huxley" },
+    { "id": 3, "name": "Margaret Atwood" }
   ],
   "books": [
     {
@@ -51,6 +52,30 @@
       "title": "Island",
       "published": 1962,
       "authorId": 2
+    },
+    {
+      "id": 9,
+      "title": "The Handmaid's Tale",
+      "published": 1985,
+      "authorId": 3
+    },
+    {
+      "id": 10,
+      "title": "Oryx and Crake",
+      "published": 2003,
+      "authorId": 3
+    },
+    {
+      "id": 11,
+      "title": "The Year of the Flood",
+      "published": 2009,
+      "authorId": 3
+    },
+    {
+      "id": 12,
+      "title": " MaddAddam",
+      "published": 2013,
+      "authorId": 3
     }
   ],
   "fruits": [
