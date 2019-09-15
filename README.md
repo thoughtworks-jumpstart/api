@@ -10,6 +10,10 @@ GET [/fruits](https://my-json-server.typicode.com/thoughtworks-jumpstart/api/fru
 
 GET [/fruits/`:id`](https://my-json-server.typicode.com/thoughtworks-jumpstart/api/fruits) - get a fruit by `id`
 
+### Posts
+
+GET [/posts](https://my-json-server.typicode.com/thoughtworks-jumpstart/api/posts) - get all posts
+
 ### Books and authors
 
 GET [/authors](https://my-json-server.typicode.com/thoughtworks-jumpstart/api/authors) - get all authors
