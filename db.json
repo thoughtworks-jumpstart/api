@@ -78,6 +78,104 @@
       "authorId": 3
     }
   ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Refactoring your wardrobe",
+      "author": "Derek Bankson",
+      "date": "2019-09-25"
+    },
+    {
+      "id": 2,
+      "title": "Test-driven development for F1 drivers",
+      "author": "Joycelyn Teska",
+      "date": "2019-09-25"
+    },
+    {
+      "id": 3,
+      "title": "How pair programming can save your marriage",
+      "author": "Joycelyn Teska",
+      "date": "2019-09-25"
+    },
+    {
+      "id": 4,
+      "title": "Parents react to their kids creating apps in React",
+      "author": "Melanie Pulice",
+      "date": "2019-09-25"
+    },
+    {
+      "id": 5,
+      "title": "Taking notes with an iPad and an Apple Pencil",
+      "author": "Aaron Johson",
+      "date": "2019-09-25"
+    },
+    {
+      "id": 6,
+      "title": "10 health benefits of eating watermelons",
+      "author": "Aaron Johson",
+      "date": "2019-09-25"
+    },
+    {
+      "id": 7,
+      "title": "Web development for designers",
+      "author": "Melanie Pulice",
+      "date": "2019-09-25"
+    },
+    {
+      "id": 8,
+      "title": "How to clean your dirty windows?",
+      "author": "Marylouise Lingardo",
+      "date": "2019-09-25"
+    },
+    {
+      "id": 9,
+      "title": "Where are we going for lunch?",
+      "author": "Derek Bankson",
+      "date": "2019-09-25"
+    },
+    {
+      "id": 10,
+      "title": "Plant-based programming",
+      "author": "Melanie Pulice",
+      "date": "2019-09-25"
+    },
+    {
+      "id": 11,
+      "title": "Why programmers like pizzas so much",
+      "author": "Marylouise Lingardo",
+      "date": "2019-09-25"
+    },
+    {
+      "id": 12,
+      "title": "How to deal with your boyfriend's commitment issues with Git commits",
+      "author": "Joycelyn Teska",
+      "date": "2019-09-25"
+    },
+    {
+      "id": 13,
+      "title": "How sushi is similar to web development",
+      "author": "Aaron Johson",
+      "date": "2019-09-25"
+    },
+    {
+      "id": 14,
+      "title": "Karate lessons for React developers",
+      "author": "Derek Bankson",
+      "date": "2019-09-25"
+    },
+    {
+      "id": 15,
+      "title": "Travel the world in virtual reality",
+      "author": "Annamae Altier",
+      "date": "2019-09-25"
+    },
+    {
+      "id": 16,
+      "title": "Instagram is for avocado toasts",
+      "author": "Joycelyn Teska",
+      "date": "2019-09-25"
+    }
+  ],
   "fruits": [
     { "id": 1, "type": "apple", "emoji": "🍎" },
     { "id": 2, "type": "banana", "emoji": "🍌" },
